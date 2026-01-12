@@ -294,7 +294,7 @@
     },
     "/pet/{petId}": {
       "get": {
-        "summary": "获取ID",
+        "summary": "获取宠物的ID",
         "deprecated": false,
         "description": "Returns a single",
         "operationId": "getPetById",
@@ -431,7 +431,7 @@
         ]
       },
       "delete": {
-        "summary": "Deletes a pet.",
+        "summary": "Deletes a 宠物.",
         "deprecated": false,
         "description": "Delete a pet.",
         "operationId": "deletePet",
