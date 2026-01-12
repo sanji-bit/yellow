@@ -294,7 +294,7 @@
     },
     "/pet/{petId}": {
       "get": {
-        "summary": "获取宠物ID",
+        "summary": "获取ID",
         "deprecated": false,
         "description": "Returns a single",
         "operationId": "getPetById",
