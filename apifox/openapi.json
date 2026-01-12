@@ -431,7 +431,7 @@
         ]
       },
       "delete": {
-        "summary": "Deletes a 宠物.",
+        "summary": "Deletes a pet.",
         "deprecated": false,
         "description": "Delete a pet.",
         "operationId": "deletePet",
