@@ -48,7 +48,7 @@
         "/pet": {
             "put": {
                 "tags": [
-                    "pet"
+                    "petss"
                 ],
                 "summary": "Update an existing pet.",
                 "description": "Update an existing pet by Id.",
